@@ -1,0 +1,22 @@
+{
+  "particle_customizer": {
+    "settings": {
+      "name": "Particle Customizer",
+      "enabled": {
+        "name": "Enabled"
+      },
+      "alwaysSharpness": {
+        "name": "Always Sharpness"
+      },
+      "alwaysCriticals": {
+        "name": "Always Criticals"
+      },
+      "sharpnessAmount": {
+        "name": "Sharpness Amount"
+      },
+      "criticalsAmount": {
+        "name": "Criticals Amount"
+      }
+    }
+  }
+}
